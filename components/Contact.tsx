@@ -68,7 +68,7 @@ const Contact: FC = () => {
         >
           <motion.div variants={buttonVariants}>
             <Link
-              href="/Chinmay_Bhoir_3_YOE_Frontend_Developer_Reactjs_Resume.pdf"
+              href="/Gaurang_Keluskar_3_YOE_Frontend_Developer_Reactjs_Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               locale={false}
@@ -79,7 +79,7 @@ const Contact: FC = () => {
           </motion.div>
 
           <motion.a
-            href="/Chinmay_Bhoir_3_YOE_Frontend_Developer_Reactjs_Resume.pdf"
+            href="/Gaurang_Keluskar_3_YOE_Frontend_Developer_Reactjs_Resume.pdf"
             download
             className="text-lg text-gray-200 bg-transparent shadow-lg border border-gray-700 hover:border-gray-600 px-6 py-3 rounded-lg flex items-center justify-center hover:bg-gray-700 hover:text-white transition-all duration-300"
             variants={buttonVariants}
