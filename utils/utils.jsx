@@ -141,8 +141,8 @@ export const projects = [
     {
         title: "Portfolio",
         description: "Personal portfolio showcasing skills, projects, and smooth transitions.",
-        repoLink: "",
-        liveLink: "",
+        repoLink: "https://github.com/gaurangkeluskar22/portfolio",
+        liveLink: "https://gaurang-portfolio-website.vercel.app/",
         languages: ["TypeScript", "Nextjs", "Tailwind CSS"],
     },
 ];
